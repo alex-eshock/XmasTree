@@ -1,5 +1,0 @@
-C:\Users\Jack Gardner\Source\Repos\XmasTreeNEW\XmasTree\obj\Debug\XmasTree.csproj.AssemblyReference.cache
-C:\Users\Jack Gardner\Source\Repos\XmasTreeNEW\XmasTree\obj\Debug\XmasTree.Properties.Resources.resources
-C:\Users\Jack Gardner\Source\Repos\XmasTreeNEW\XmasTree\obj\Debug\XmasTree.Setting.resources
-C:\Users\Jack Gardner\Source\Repos\XmasTreeNEW\XmasTree\obj\Debug\XmasTree.csproj.GenerateResource.cache
-C:\Users\Jack Gardner\Source\Repos\XmasTreeNEW\XmasTree\obj\Debug\XmasTree.csproj.CoreCompileInputs.cache
