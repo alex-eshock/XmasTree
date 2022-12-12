@@ -83,5 +83,8 @@
   <ItemGroup>
     <None Include="Resources\Untitled.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimalist_loss.svg.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
