@@ -121,4 +121,10 @@
   <data name="ACMTree" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ACMTree.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Image1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Image1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="st_small_845x845_pad_1000x1000_f8f8f8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\st,small,845x845-pad,1000x1000,f8f8f8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

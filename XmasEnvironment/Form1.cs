@@ -15,6 +15,15 @@ namespace XmasEnvironment
         public Form1()
         {
             InitializeComponent();
+            
+            // setting the background of santa's crack as transparent
+            pictureBox1.BackColor = Color.Transparent;
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
