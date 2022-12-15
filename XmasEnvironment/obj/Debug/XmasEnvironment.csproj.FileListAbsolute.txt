@@ -1,0 +1,10 @@
+C:\Users\Jack Gardner\Source\Repos\XmasTreeNewest\XmasEnvironment\bin\Debug\XmasEnvironment.exe.config
+C:\Users\Jack Gardner\Source\Repos\XmasTreeNewest\XmasEnvironment\bin\Debug\XmasEnvironment.exe
+C:\Users\Jack Gardner\Source\Repos\XmasTreeNewest\XmasEnvironment\bin\Debug\XmasEnvironment.pdb
+C:\Users\Jack Gardner\Source\Repos\XmasTreeNewest\XmasEnvironment\obj\Debug\XmasEnvironment.csproj.AssemblyReference.cache
+C:\Users\Jack Gardner\Source\Repos\XmasTreeNewest\XmasEnvironment\obj\Debug\XmasEnvironment.Form1.resources
+C:\Users\Jack Gardner\Source\Repos\XmasTreeNewest\XmasEnvironment\obj\Debug\XmasEnvironment.Properties.Resources.resources
+C:\Users\Jack Gardner\Source\Repos\XmasTreeNewest\XmasEnvironment\obj\Debug\XmasEnvironment.csproj.GenerateResource.cache
+C:\Users\Jack Gardner\Source\Repos\XmasTreeNewest\XmasEnvironment\obj\Debug\XmasEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\Jack Gardner\Source\Repos\XmasTreeNewest\XmasEnvironment\obj\Debug\XmasEnvironment.exe
+C:\Users\Jack Gardner\Source\Repos\XmasTreeNewest\XmasEnvironment\obj\Debug\XmasEnvironment.pdb

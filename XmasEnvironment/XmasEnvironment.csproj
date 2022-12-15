@@ -83,5 +83,9 @@
   <ItemGroup>
     <None Include="Resources\ACMTree.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.png" />
+    <Content Include="Resources\st,small,845x845-pad,1000x1000,f8f8f8.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
